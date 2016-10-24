@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/first_scene.unity
+- path: Assets/animation_example.unity
   isLoaded: 1
   isActive: 1
